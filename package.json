@@ -1,0 +1,22 @@
+{
+  "name": "docus-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "generate": "nuxi generate",
+    "preview": "nuxi preview",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@nuxt-themes/docus": "latest",
+    "@nuxt/devtools": "^1.4.1",
+    "@nuxt/eslint-config": "^0.5.6",
+    "@nuxtjs/plausible": "^1.0.2",
+    "@types/node": "^20.16.5",
+    "eslint": "^9.10.0",
+    "nuxt": "^3.13.1"
+  },
+  "packageManager": "pnpm@9.11.0+sha512.0a203ffaed5a3f63242cd064c8fb5892366c103e328079318f78062f24ea8c9d50bc6a47aa3567cabefd824d170e78fa2745ed1f16b132e16436146b7688f19b"
+}
